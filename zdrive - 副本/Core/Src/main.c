@@ -36,7 +36,7 @@
 /* USER CODE BEGIN PTD */
 uint8_t uart_rx_byte;
 /* USER CODE END PTD */
-
+int a;
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
 //extern void ZDrive_Func(void);
