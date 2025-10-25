@@ -1,0 +1,15 @@
+zdrive\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+zdrive\queue.o: E:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+zdrive\queue.o: E:\Keil\ARM\ARMCC\Bin\..\include\string.h
+zdrive\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+zdrive\queue.o: E:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+zdrive\queue.o: E:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+zdrive\queue.o: ../Core/Inc/FreeRTOSConfig.h
+zdrive\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+zdrive\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+zdrive\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+zdrive\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+zdrive\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+zdrive\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+zdrive\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+zdrive\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

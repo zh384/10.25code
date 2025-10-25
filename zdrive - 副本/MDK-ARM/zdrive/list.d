@@ -1,0 +1,12 @@
+zdrive\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+zdrive\list.o: E:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+zdrive\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+zdrive\list.o: E:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+zdrive\list.o: E:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+zdrive\list.o: ../Core/Inc/FreeRTOSConfig.h
+zdrive\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+zdrive\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+zdrive\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+zdrive\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+zdrive\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+zdrive\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
